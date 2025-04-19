@@ -1,0 +1,9 @@
+.List_items{
+    border: 1px solid;
+    width: fit-content;
+
+}
+.List_items li{
+ background-color: green;
+color: aliceblue;
+}
